@@ -1,0 +1,15 @@
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\bin\Debug\net7.0\Bl.deps.json
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\bin\Debug\net7.0\Bl.dll
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\bin\Debug\net7.0\Bl.pdb
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.dll
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\refint\Bl.dll
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.pdb
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\ref\Bl.dll
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\bin\Debug\net7.0\Dal.dll
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\bin\Debug\net7.0\Dal.pdb
+H:\C#\פרויקט\Project\C#פרויקט\project\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
